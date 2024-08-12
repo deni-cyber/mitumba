@@ -1,0 +1,16 @@
+information of mysqldb---
+-----------------------
+name- mutumba_db
+password- amdenionmysql
+
+
+
+admin details-----
+------------------
+username- denitech
+password- amdeni@mitumba
+email- denitech@gmail.com
+
+
+
+
